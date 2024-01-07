@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Wannabe Productive",
+  "description": "Productivity Extension",
+    "version": "1.0.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": [
+      "scripting",
+      "declarativeNetRequest",
+      "storage"
+    ],
+    "background": {
+      "service_worker": "service-worker.js",
+      "type": "module"
+    },
+    "host_permissions": [
+      "http://*/*",
+      "https://*/*"
+    ],
+    "author": {
+      "name": "Grace Rasaily",
+      "url": "https://github.com/Grace-Rasaily780"
+    }
+  }

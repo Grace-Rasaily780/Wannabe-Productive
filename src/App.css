@@ -1,0 +1,87 @@
+#root {
+  width: 15rem;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: #F2E8CF;
+}
+
+.app_container .header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.7rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.app_container .header img {
+  height: 2rem;
+}
+
+.app_container .header .btn-off {
+  cursor: pointer;
+  /* height: 3.6rem; */
+  padding: 0.6rem 0;
+  width: 8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  border-radius: 200rem;
+  background-color: #B1B1B1;
+  box-shadow: 0px 0px 20px 0px #B1B1B1;
+  border: none;
+  color: #E6E6E6;
+  font-weight: bolder;
+} 
+
+.app_container .header .btn-on {
+  cursor: pointer;
+  /* height: 3.6rem; */
+  padding: 0.6rem 0;
+  width: 8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  border-radius: 200rem;
+  background-color: #386641;
+  box-shadow: 0px 0px 20px 0px #386641;
+  border: none;
+  color: #E6E6E6;
+  font-weight: bolder;
+} 
+
+.app_container .sites_list h2 {
+  text-align: left;
+  font-size: 1.3rem!important;
+  color: #BC4749;
+}
+
+.app_container .sites_list .site {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.app_container .sites_list .site .site_left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.app_container .sites_list .site .site_right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.app_container .sites_list .site span {
+  font-size: 100%;
+  color: #3D3D3D
+}
+
+.app_container .sites_list .site .del-btn {
+  background-color: #ffffff00;
+  border-color: #BC4749;
+}
