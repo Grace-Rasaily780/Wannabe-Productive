@@ -18,9 +18,10 @@ A Chrome extension to help you stay focused and beat distractions by blocking we
 
 1. Download this repository as a ZIP file or clone it.
 2. Unzip the file if needed and open Chrome Extension page.
-3. Run the `bun run build`or `npm run build`
-4. Turn on Developer Mode. 
-5. Click on "Load Unpacked" and select the `dist `directory.
+3. Run the `bun install`or `npm install`
+4. Run the `bun run build`or `npm run build`
+5. Turn on Developer Mode. 
+6. Click on "Load Unpacked" and select the `dist`directory.
 
 ## Usage
 
