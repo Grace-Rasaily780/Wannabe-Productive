@@ -12,7 +12,7 @@ A Chrome extension to help you stay focused and beat distractions by blocking we
 
 ## Screenshots
 
-<img src="https://i.snipboard.io/rDQTfX.jpg" width="200px">
+<img src="https://s3.amazonaws.com/i.snag.gy/EGKl3i.jpg" width="200px">
 
 ## Installation
 
