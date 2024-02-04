@@ -1,6 +1,10 @@
 
 # Wannabe Productive
 
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103) ![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)
+
+![BUN](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 A Chrome extension to help you stay focused and beat distractions by blocking websites.
 
 ## Features
